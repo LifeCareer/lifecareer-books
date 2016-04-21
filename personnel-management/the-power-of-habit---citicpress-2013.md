@@ -1,28 +1,17 @@
 # 习惯的力量 #
 
+|标　题|习惯的力量|
+|----:|:-------|
+|副标题|我们为什么会这样生活，那样工作？|
+|原作名|[The Power of Habit](https://en.wikipedia.org/wiki/The_Power_of_Habit)|
+|作　者|[(美)查尔斯·杜希格 Charles Duhigg](https://en.wikipedia.org/wiki/Charles_Duhigg)|
+|译　者|吴奕俊 / 曹烨 |
+|出版社|中信出版社|
+|出版年|2013年3月|
+|ISBN|9787508638010|
+|推荐指数|★★★★☆|
+ 
 ![习惯的力量：我们为什么会这样生活，那样工作？](../assets/covers/the-power-of-habit---citicpress-2013.jpg "习惯的力量：我们为什么会这样生活，那样工作？")
-
-## 基本信息 ##
-
-作者: [(美)查尔斯·杜希格 Charles Duhigg](https://en.wikipedia.org/wiki/Charles_Duhigg)
-
-出版社: 中信出版社
-
-副标题: 我们为什么会这样生活，那样工作？
-
-原作名: [The Power of Habit](https://en.wikipedia.org/wiki/The_Power_of_Habit)
-
-译者: 吴奕俊 / 曹烨 
-
-出版年: 2013-3
-
-页数: 286
-
-定价: 42.00元
-
-装帧: 平装
-
-ISBN: 9787508638010
 
 ## 目录 ##
 + 前言 习惯疗法
