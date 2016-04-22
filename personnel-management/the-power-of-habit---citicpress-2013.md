@@ -71,6 +71,6 @@
 + **金色牢笼**：本书所有章节都围绕一个观点展开:如果可以弄清习惯运作的原理，那所有习惯都是可以改变的。这本书分为三个部分，第一部分探讨习惯是怎么回事，它的工作原理，怎么形成习惯，怎么改掉老习惯，形成新习惯。第二部分探讨的是公司习惯怎样影响公司发展。第三部分探讨的是社会习惯怎样影响社会进步。（简书作者 金色牢笼，[简书](http://www.jianshu.com/p/d8faf8a53527)）
 
 ## 关联阅读 ##
-0. [乌合之众：大众心理研究 ★★★★☆][a-study-of-the-popular-mind---cctpress-2014]
+0. [乌合之众：大众心理研究 ★★★★][a-study-of-the-popular-mind---cctpress-2014]
 
 [a-study-of-the-popular-mind---cctpress-2014]: ../psychology/a-study-of-the-popular-mind---cctpress-2014.md "乌合之众：大众心理研究"
