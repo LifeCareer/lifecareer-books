@@ -12,6 +12,15 @@
 
 ## 清单 ##
 
+### 计算机与信息技术 ###
+
+#### 程序开发与架构设计 ####
+
+##### JavaScript #####
+0. [JavaScript 语言精粹 ★★★★☆，▲][javascript-the-good-parts---phei-2012]
+
+[javascript-the-good-parts---phei-2012]: computer-it/programming-and-architectural-design/javascript/javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹"
+
 ### 文学 ###
 
 #### 人物传记 ####
