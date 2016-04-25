@@ -12,7 +12,7 @@
 |推荐指数|★★★★☆|
 
 ## 封面 ##
-![JavaScript 语言精粹](../../../assets/covers/javascript-the-good-parts---phei-2012.png "JavaScript 语言精粹)
+![JavaScript 语言精粹](/assets/covers/javascript-the-good-parts---phei-2012.png "JavaScript 语言精粹")
 
 ## 关于作者 ##
 Douglas Crockford 是 Web 开发领域最知名的技术权威之一，JSON、JSLint、JSMin 和 ADSafe 的创造者，ECMA JavaScript2.0 标准化委员会委员。被 JavaScript 之父 Brendan Eich 称为 JavaScript 的大宗师（Yoda）。曾任 Yahoo! 资深 JavaScript 架构师，现任 PayPal 高级 JavaScript 架构师。
@@ -98,3 +98,6 @@ Douglas Crockford 是 Web 开发领域最知名的技术权威之一，JSON、JS
 + **gyzhao**：正如书名所示，本书非常的短小精悍，精炼的语句将JavaScript的精粹娓娓道来。正是因为如此，这本篇幅不大的一本书，却包含了大量的干货，需要反复阅读，和亲身实践，才能真正掌握这本书的精粹。（豆瓣用户 gyzhao，[豆瓣](https://www.douban.com/people/nowdays/)）
 
 ## 关联阅读 ##
+0. [JavaScript 启示录 ★★★★，▲][javascript-enlightenment---ptpress-2014]
+
+[javascript-enlightenment---ptpress-2014]: javascript-enlightenment---ptpress-2014.md "JavaScript 启示录"
