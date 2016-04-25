@@ -11,7 +11,7 @@
 |推荐指数|★★★★|
 
 ## 封面 ##
-![JavaScript 启示录](../../../assets/covers/javascript-enlightenment---ptpress-2014.png "JavaScript 启示录)
+![JavaScript 启示录](/assets/covers/javascript-enlightenment---ptpress-2014.png "JavaScript 启示录")
 
 ## 关于作者 ##
 
@@ -46,7 +46,7 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 1.20 构造函数创建的实例可拥有自己独立的属性(实例属性)
     - 1.21 javascript对象和object()对象
 + 第2章 对象与属性
-    - 2.1　复杂对象可以将大多数javascript值作为属性
+    - 2.1 复杂对象可以将大多数javascript值作为属性
     - 2.2 封装复杂对象
     - 2.3 用点表示法或中括号表示法获取/设置/更新对象属性
     - 2.4 删除对象属性
@@ -57,14 +57,14 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 2.9 宿主对象与原生对象
     - 2.10 使用underscore.js增强及扩展对象
 + 第3章 object()
-    - 3.1　object()对象概要
+    - 3.1 object()对象概要
     - 3.2 object()参数
     - 3.3 object()属性和方法
     - 3.4 object()对象实例属性和方法
     - 3.5 使用对象字面量创建object()对象
     - 3.6 所有对象都继承自object.prototype
 + 第4章 function()
-    - 4.1　function()对象概要
+    - 4.1 function()对象概要
     - 4.2 function()参数
     - 4.3 function()属性和方法
     - 4.4 function对象实例属性和方法
@@ -86,7 +86,7 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 4.20 函数定义之前调用(函数提升)
     - 4.21 函数可以调用自身(递归)
 + 第5章 head/全局对象
-    - 5.1　head/全局对象概要
+    - 5.1 head/全局对象概要
     - 5.2 head对象内的全局函数
     - 5.3 head对象与全局属性、全局变量
     - 5.4 引用head对象
@@ -100,7 +100,7 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 6.6 在用户自定义构造函数内部使用this关键字 
     - 6.7 原型方法内的this关键字引用构造函数实例 
 + 第7章 作用域和闭包 
-    - 7.1　javascript作用域概要 
+    - 7.1 javascript作用域概要 
     - 7.2 javascript没有块作用域 
     - 7.3 在函数中用var声明变量，避免作用域陷阱 
     - 7.4 作用域链(词法作用域) 
@@ -108,7 +108,7 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 7.6 函数定义时确定作用域，而非调用时确定
     - 7.7 闭包是由作用域链引起的 
 + 第8章 函数原型属性 
-    - 8.1　原型链概要 
+    - 8.1 原型链概要 
     - 8.2 为何要关注prototype属性 
     - 8.3 原型在所有function()实例上都是标准的 
     - 8.4 默认的prototype属性是object()对象 
@@ -121,7 +121,7 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 8.11 用户自定义构造函数像原生构造函数一样原型继承 
     - 8.12 创建继承链 
 + 第9章 array() 
-    - 9.1　array()对象概要 
+    - 9.1 array()对象概要 
     - 9.2 array()参数 
     - 9.3 array()属性和方法 
     - 9.4 数组对象实例属性和方法 
@@ -133,34 +133,34 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
     - 9.10 数组包含数组(多维数组) 
     - 9.11 遍历数组
 + 第10章 string() 
-    - 10.1　string()对象概要 
+    - 10.1 string()对象概要 
     - 10.2 string()参数 
     - 10.3 string()属性和方法 
     - 10.4 字符串对象实例属性和方法 
 + 第11章 number()
-    - 11.1　number()对象概要 
+    - 11.1 number()对象概要 
     - 11.2 整数和浮点数
     - 11.3 number()参数 
     - 11.4 number()属性 
     - 11.5 数字对象实例属性和方法 
 + 第12章 boolean()
-    - 12.1　boolean()对象概要
+    - 12.1 boolean()对象概要
     - 12.2 boolean()参数
     - 12.3 boolean()属性和方法
     - 12.4 布尔对象实例属性和方法 
     - 12.5 非原始false布尔对象转换为true 
     - 12.6 某些值是false，其他都是true 
 + 第13章 使用原始值：字符串、数字和布尔值 
-    - 13.1　访问属性时原始值/字面量值被转换为对象
+    - 13.1 访问属性时原始值/字面量值被转换为对象
     - 13.2 通常应使用原始字符串、数字和布尔值 
 + 第14章 null
-    - 14.1　null值概要 
+    - 14.1 null值概要 
     - 14.2 typeof(null)的返回值为“object” 
 + 第15章 undefined 
-    - 15.1　undefined值概要
+    - 15.1 undefined值概要
     - 15.2 在全局作用域中定义undefined变量
 + 第16章 math函数
-    - 16.1　内置math对象概要
+    - 16.1 内置math对象概要
     - 16.2 math属性和方法
     - 16.3 math不是构造函数
     - 16.4 math常数无法增大/改变
@@ -174,6 +174,9 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
 + **郭志敏**：本书无关于JavaScript设计模式，也无关于JavaScript面向对象代码实现。本书的写作目的也不是鉴别JavaScript语言特点的好坏。本书并不是一本完整的参考指南。它面向的读者人群并不是编程新手或对JavaScript完全陌生的人员。同时，它也不是一本JavaScript攻略手册。关于上述这些方面的书籍都已经面世。（知乎作者 郭志敏，[知乎](http://zhuanlan.zhihu.com/p/19674660)）
 
 ## 关联阅读 ##
-0. [JavaScript 语言精粹（修订版） ★★★★☆，▲][javascript-the-good-parts---phei-2012]
+0. [JavaScript 语言精粹（修订版）][javascript-the-good-parts---phei-2012]
+0. [编写高质量代码：改善 JavaScript 程序的188个建议][javascript-188---cmpedu-2012]
+
 
 [javascript-the-good-parts---phei-2012]: javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹"
+[javascript-188---cmpedu-2012]: javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议"
