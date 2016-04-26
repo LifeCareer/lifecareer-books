@@ -100,7 +100,8 @@ Douglas Crockford 是 Web 开发领域最知名的技术权威之一，JSON、JS
 ## 关联阅读 ##
 0. [JavaScript 启示录][javascript-enlightenment---ptpress-2014]
 0. [编写高质量代码：改善 JavaScript 程序的188个建议][javascript-188---cmpedu-2012]
-
+0. [JavaScript 核心技术][learning-javascript---cmpedu-2007]
 
 [javascript-enlightenment---ptpress-2014]: javascript-enlightenment---ptpress-2014.md "JavaScript 启示录"
 [javascript-188---cmpedu-2012]: javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议"
+[learning-javascript---cmpedu-2007]: learning-javascript---cmpedu-2007.md "JavaScript 核心技术"

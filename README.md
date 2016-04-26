@@ -17,10 +17,12 @@
 #### 程序开发与架构设计 ####
 
 ##### JavaScript #####
+0. [JavaScript 核心技术 ★★☆，△][learning-javascript---cmpedu-2007]
 0. [JavaScript 语言精粹（修订版） ★★★★☆，▲][javascript-the-good-parts---phei-2012]
 0. [JavaScript 启示录 ★★★★，▲][javascript-enlightenment---ptpress-2014]
 0. [编写高质量代码：改善 JavaScript 程序的188个建议 ★★★★☆，▲][javascript-188---cmpedu-2012]
 
+[learning-javascript---cmpedu-2007]: computer-it/programming-and-architectural-design/javascript/learning-javascript---cmpedu-2007.md "JavaScript 核心技术"
 [javascript-the-good-parts---phei-2012]: computer-it/programming-and-architectural-design/javascript/javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹"
 [javascript-enlightenment---ptpress-2014]: computer-it/programming-and-architectural-design/javascript/javascript-enlightenment---ptpress-2014.md "JavaScript 启示录"
 [javascript-188---cmpedu-2012]: computer-it/programming-and-architectural-design/javascript/javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议"

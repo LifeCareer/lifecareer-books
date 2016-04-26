@@ -176,7 +176,8 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
 ## 关联阅读 ##
 0. [JavaScript 语言精粹（修订版）][javascript-the-good-parts---phei-2012]
 0. [编写高质量代码：改善 JavaScript 程序的188个建议][javascript-188---cmpedu-2012]
-
+0. [JavaScript 核心技术][learning-javascript---cmpedu-2007]
 
 [javascript-the-good-parts---phei-2012]: javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹"
 [javascript-188---cmpedu-2012]: javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议"
+[learning-javascript---cmpedu-2007]: learning-javascript---cmpedu-2007.md "JavaScript 核心技术"
