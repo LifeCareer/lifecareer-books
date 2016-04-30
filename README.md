@@ -27,6 +27,17 @@
 [javascript-enlightenment---ptpress-2014]: computer-it/programming-and-architectural-design/javascript/javascript-enlightenment---ptpress-2014.md "JavaScript 启示录"
 [javascript-188---cmpedu-2012]: computer-it/programming-and-architectural-design/javascript/javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议"
 
+### 个人与管理 ###
+0. [习惯的力量：我们为什么会这样生活，那样工作？ ★★★★☆，△][the-power-of-habit---citicpress-2013]
+
+[the-power-of-habit---citicpress-2013]: personnel-management/the-power-of-habit---citicpress-2013.md "习惯的力量：我们为什么会这样生活，那样工作？"
+
+#### 面试与人生规划 ####
+
+0. [我是一只IT小小鸟 ★★★★，▲<sup>2</sup>][i-am-a-tiny-bird---phei-2009]
+
+[i-am-a-tiny-bird---phei-2009]: personnel-management/i-am-a-tiny-bird---phei-2009.md "我是一只IT小小鸟"
+
 ### 文学 ###
 
 #### 人物传记 ####
@@ -48,11 +59,6 @@
 0. [乌合之众：大众心理研究 ★★★★，▼][a-study-of-the-popular-mind---cctpress-2014]
 
 [a-study-of-the-popular-mind---cctpress-2014]: psychology/a-study-of-the-popular-mind---cctpress-2014.md "乌合之众：大众心理研究"
-
-### 个人管理 ###
-0. [习惯的力量：我们为什么会这样生活，那样工作？ ★★★★☆，△][the-power-of-habit---citicpress-2013]
-
-[the-power-of-habit---citicpress-2013]: personnel-management/the-power-of-habit---citicpress-2013.md "习惯的力量：我们为什么会这样生活，那样工作？"
 
 ## 关于 ##
 
