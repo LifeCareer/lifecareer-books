@@ -14,9 +14,7 @@
 
 ### 计算机与信息技术 ###
 
-#### 程序开发与架构设计 ####
-
-##### JavaScript #####
+#### JavaScript ####
 0. [JavaScript 核心技术 ★★☆，△][learning-javascript---cmpedu-2007]
 0. [JavaScript 语言精粹（修订版） ★★★★☆，▲][javascript-the-good-parts---phei-2012]
 0. [JavaScript 启示录 ★★★★，▲][javascript-enlightenment---ptpress-2014]
