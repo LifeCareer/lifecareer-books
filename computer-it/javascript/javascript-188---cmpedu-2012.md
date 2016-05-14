@@ -216,6 +216,6 @@
   - 建议188：避免JavaScript与CSS冲突
 
 ## 关联阅读 ##
-1. [JavaScript 语言精粹（修订版）](javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹")
-2. [JavaScript 启示录](javascript-enlightenment---ptpress-2014.md "JavaScript 启示录")
-3. [JavaScript 核心技术](learning-javascript---cmpedu-2007.md  "JavaScript 核心技术")
+1. [JavaScript 语言精粹（修订版） ★★★★☆](javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹")
+2. [JavaScript 启示录 ★★★★](javascript-enlightenment---ptpress-2014.md "JavaScript 启示录")
+3. [JavaScript 核心技术 ★★☆](learning-javascript---cmpedu-2007.md  "JavaScript 核心技术")

@@ -23,9 +23,9 @@
 
 #### JavaScript ####
 1. [JavaScript 核心技术 ★★☆，△](computer-it/javascript/learning-javascript---cmpedu-2007.md	"JavaScript 核心技术")
-2. [JavaScript 语言精粹（修订版） ★★★★☆，▲](computer-it/javascript/javascript-the-good-parts---phei-2012.md"JavaScript 语言精粹")
-3. [JavaScript 启示录 ★★★★，▲](computer-it/javascript/javascript-enlightenment---ptpress-2014.md"JavaScript 启示录")
-4. [编写高质量代码：改善 JavaScript 程序的188个建议 ★★★★☆，▲](computer-it/javascript/javascript-188---cmpedu-2012.md"编写高质量代码：改善 JavaScript 程序的188个建议")
+2. [JavaScript 语言精粹（修订版） ★★★★☆，▲](computer-it/javascript/javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹")
+3. [JavaScript 启示录 ★★★★，▲](computer-it/javascript/javascript-enlightenment---ptpress-2014.md "JavaScript 启示录")
+4. [编写高质量代码：改善 JavaScript 程序的188个建议 ★★★★☆，▲](computer-it/javascript/javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议")
 
 ***
 
@@ -45,9 +45,9 @@
 
 #### 游记 ####
 
-1. [他们最幸福 ★★★，▼](literature/travels/ta-men-zui-xin-fu---hl&amp;ahp-2013.md	"他们最幸福")
-2. [乖，摸摸头 ★★★，▼](literature/travels/guai-mo-mo-tou---hl&amp;ahp-2014.md"乖，摸摸头")
-3. [阿弥陀佛么么哒 ★★★，▼](literature/travels/e-mo-tuo-fo-me-me-da---hl&amp;ahp-2015.md"阿弥陀佛么么哒")
+1. [他们最幸福 ★★★，▼](literature/travels/ta-men-zui-xin-fu---hl&amp;ahp-2013.md "他们最幸福")
+2. [乖，摸摸头 ★★★，▼](literature/travels/guai-mo-mo-tou---hl&amp;ahp-2014.md "乖，摸摸头")
+3. [阿弥陀佛么么哒 ★★★，▼](literature/travels/e-mo-tuo-fo-me-me-da---hl&amp;ahp-2015.md "阿弥陀佛么么哒")
 
 ***
 

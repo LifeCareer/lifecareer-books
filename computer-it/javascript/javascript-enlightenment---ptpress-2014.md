@@ -174,6 +174,6 @@ Cody Lindley 是一名客户端工程师（也称为前端开发人员）及flas
 + **郭志敏**：本书无关于JavaScript设计模式，也无关于JavaScript面向对象代码实现。本书的写作目的也不是鉴别JavaScript语言特点的好坏。本书并不是一本完整的参考指南。它面向的读者人群并不是编程新手或对JavaScript完全陌生的人员。同时，它也不是一本JavaScript攻略手册。关于上述这些方面的书籍都已经面世。（知乎作者 郭志敏，[知乎](http://zhuanlan.zhihu.com/p/19674660)）
 
 ## 关联阅读 ##
-1. [JavaScript 语言精粹（修订版）](javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹")
-2. [编写高质量代码：改善 JavaScript 程序的188个建议]( javascript-188---cmpedu-2012.md"编写高质量代码：改善 JavaScript 程序的188个建议")
-3. [JavaScript 核心技术](learning-javascript---cmpedu-2007.md  "JavaScript 核心技术")
+1. [JavaScript 语言精粹（修订版） ★★★★☆](javascript-the-good-parts---phei-2012.md "JavaScript 语言精粹")
+2. [编写高质量代码：改善 JavaScript 程序的188个建议 ★★★★☆]( javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议")
+3. [JavaScript 核心技术 ★★☆](learning-javascript---cmpedu-2007.md  "JavaScript 核心技术")

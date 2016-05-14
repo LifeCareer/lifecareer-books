@@ -98,6 +98,6 @@ Douglas Crockford 是 Web 开发领域最知名的技术权威之一，JSON、JS
 + **gyzhao**：正如书名所示，本书非常的短小精悍，精炼的语句将JavaScript的精粹娓娓道来。正是因为如此，这本篇幅不大的一本书，却包含了大量的干货，需要反复阅读，和亲身实践，才能真正掌握这本书的精粹。（豆瓣用户 gyzhao，[豆瓣](https://www.douban.com/people/nowdays/)）
 
 ## 关联阅读 ##
-1. [JavaScript 启示录](javascript-enlightenment---ptpress-2014.md "JavaScript 启示录")
-2. [编写高质量代码：改善 JavaScript 程序的188个建议]( javascript-188---cmpedu-2012.md"编写高质量代码：改善 JavaScript 程序的188个建议")
-3. [JavaScript 核心技术](learning-javascript---cmpedu-2007.md  "JavaScript 核心技术")
+1. [JavaScript 启示录 ★★★★](javascript-enlightenment---ptpress-2014.md "JavaScript 启示录")
+2. [编写高质量代码：改善 JavaScript 程序的188个建议 ★★★★☆]( javascript-188---cmpedu-2012.md "编写高质量代码：改善 JavaScript 程序的188个建议")
+3. [JavaScript 核心技术 ★★☆](learning-javascript---cmpedu-2007.md  "JavaScript 核心技术")
