@@ -1,12 +1,12 @@
 # 他们最幸福 #
 
-|标　题|他们最幸福|
-|----:|:-------|
-|作　者|[大冰](http://baike.baidu.com/link?url=8wSOp0vLcmUtfqQMhgBxfGaXvKzS3_l29ErhOWwM5-NEHcnaxTqFOwVa-0gEnQJepdTUZRsZdryObxVWlGWUla)|
-|出版社|湖南文艺出版社|
-|出版年|2013年9月|
-|ISBN|9787508641577|
-|推荐指数|★★★|
+|  标　题 | 他们最幸福                                    |
+| ---: | :--------------------------------------- |
+|  作　者 | [大冰](http://baike.baidu.com/link?url=8wSOp0vLcmUtfqQMhgBxfGaXvKzS3_l29ErhOWwM5-NEHcnaxTqFOwVa-0gEnQJepdTUZRsZdryObxVWlGWUla) |
+|  出版社 | 湖南文艺出版社                                  |
+|  出版年 | 2013年9月                                  |
+| ISBN | 9787508641577                            |
+| 推荐指数 | ★★★                                      |
 
 ## 封面 ##
 ![他们最幸福](../../assets/covers/ta-men-zui-xin-fu---hl&ahp-2013.png "他们最幸福")
@@ -38,8 +38,5 @@
 
 ## 关联阅读 ##
 
-0. [乖，摸摸头 ★★★][guai-mo-mo-tou---hl&ahp-2014]
-0. [阿弥陀佛么么哒 ★★★][e-mo-tuo-fo-me-me-da---hl&ahp-2015]
-
-[guai-mo-mo-tou---hl&ahp-2014]: guai-mo-mo-tou---hl&ahp-2014.md "乖，摸摸头"
-[e-mo-tuo-fo-me-me-da---hl&ahp-2015]: e-mo-tuo-fo-me-me-da---hl&ahp-2015.md "阿弥陀佛么么哒"
+1. [乖，摸摸头 ★★★](guai-mo-mo-tou---hl&amp;ahp-2014.md	"乖，摸摸头")
+2. [阿弥陀佛么么哒 ★★★](e-mo-tuo-fo-me-me-da---hl&ahp-2015.md"阿弥陀佛么么哒")

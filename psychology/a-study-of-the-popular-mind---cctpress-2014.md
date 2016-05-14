@@ -1,15 +1,15 @@
 # 乌合之众 #
 
-|标　题|乌合之众|
-|----:|:-------|
-|副标题|大众心理研究|
-|原作名|[THE CROWD](https://en.wikipedia.org/wiki/The_Crowd:_A_Study_of_the_Popular_Mind)|
-|作　者|[(法)古斯塔夫·勒庞 Gustave Le Bon](https://en.wikipedia.org/wiki/Gustave_Le_Bon)|
-|译　者|[冯克利](http://baike.baidu.com/link?url=ZmdmvmJqCouZ4o4nh4ARtNsAr_68wWzQ_VnlKtbWcOfqLNCoHchKoAGY0EyEaESAEwTNogeu5Qn1Hh_4p_4GVK)|
-|出版社|中央编译出版社|
-|出版年|2014年4月|
-|ISBN|9787511720870|
-|推荐指数|★★★★|
+|  标　题 | 乌合之众                                     |
+| ---: | :--------------------------------------- |
+|  副标题 | 大众心理研究                                   |
+|  原作名 | [THE CROWD](https://en.wikipedia.org/wiki/The_Crowd:_A_Study_of_the_Popular_Mind) |
+|  作　者 | [(法)古斯塔夫·勒庞 Gustave Le Bon](https://en.wikipedia.org/wiki/Gustave_Le_Bon) |
+|  译　者 | [冯克利](http://baike.baidu.com/link?url=ZmdmvmJqCouZ4o4nh4ARtNsAr_68wWzQ_VnlKtbWcOfqLNCoHchKoAGY0EyEaESAEwTNogeu5Qn1Hh_4p_4GVK) |
+|  出版社 | 中央编译出版社                                  |
+|  出版年 | 2014年4月                                  |
+| ISBN | 9787511720870                            |
+| 推荐指数 | ★★★★                                     |
 
 ## 封面 ##
 ![乌合之众：大众心理研究](../assets/covers/a-study-of-the-popular-mind---cctpress-2014.png "乌合之众：大众心理研究")
@@ -21,21 +21,21 @@
 + 作者前言
 + 导言：群体的时代
 + 第一卷群体心理
-    - 第一章群体的一般特征
-    - 第二章群体的感情和道德观
-    - 第三章群体的观念、推理和想象力
-    - 第四章群体信仰所采取的宗教形式
+  - 第一章群体的一般特征
+  - 第二章群体的感情和道德观
+  - 第三章群体的观念、推理和想象力
+  - 第四章群体信仰所采取的宗教形式
 + 第二卷群体的意见与信念
-    - 第一章群体的意见和信念中的间接因素
-    - 第二章群体意见的直接因素
-    - 第三章群体领袖及其说服的手
-    - 第四章群体的信念和意见的变化范围
+  - 第一章群体的意见和信念中的间接因素
+  - 第二章群体意见的直接因素
+  - 第三章群体领袖及其说服的手
+  - 第四章群体的信念和意见的变化范围
 + 第三卷不同群体的分类及其特点
-    - 第一章群体的分类
-    - 第二章被称为犯罪群体的群体
-    - 第三章刑事案件的陪审团
-    - 第四章选民群体
-    - 第五章议会
+  - 第一章群体的分类
+  - 第二章被称为犯罪群体的群体
+  - 第三章刑事案件的陪审团
+  - 第四章选民群体
+  - 第五章议会
 + 译名对照表
 
 ## 评价摘录 ##
@@ -47,6 +47,4 @@
 + **TaraChen**：当我们极力理解一本两三百年前用我们自己的语言写成的著作时，我们实际上是在做什么呢？我们只不过是在用现代生活赋予我们的一些形象和观念，去取代一些截然不同的概念和形象，是古代的生活使它们存在于种族的头脑中，而当时的生存状态跟我们今天毫无相似之处。﻿（简书作者 TaraChen，[简书](http://www.jianshu.com/p/df26ceee57e7)）
 
 ## 关联阅读 ##
-0. [习惯的力量：我们为什么会这样生活，那样工作？ ★★★★☆][the-power-of-habit---citicpress-2013]
-
-[the-power-of-habit---citicpress-2013]: ../personnel-management/the-power-of-habit---citicpress-2013.md "习惯的力量：我们为什么会这样生活，那样工作？"
+1. [习惯的力量：我们为什么会这样生活，那样工作？ ★★★★☆](../personnel-management/the-power-of-habit---citicpress-2013.md	"习惯的力量：我们为什么会这样生活，那样工作？")

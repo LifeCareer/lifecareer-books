@@ -1,4 +1,4 @@
-# JavaScript 学习推荐书单
+# 前端学习推荐书单
 
 ## 基础
 
@@ -13,5 +13,4 @@
 
 ## 相关书单
 
-* [前端学习推荐书单](front-end-list.md "前端学习推荐书单")
-
+* [JavaScript 学习推荐书单](javascript-list.md "JavaScript 学习推荐书单")
