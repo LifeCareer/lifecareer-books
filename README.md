@@ -1,6 +1,6 @@
 # LifeCareer: 建议书目 #
 
-## 简介 ##
+## 简　介 ##
 
 ![Title](assets/title.jpg)
 
