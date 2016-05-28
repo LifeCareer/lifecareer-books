@@ -12,8 +12,11 @@
 
 ## 书单清单 ##
 
-* [JavaScript 学习推荐书单](seminar-lists/javascript-list.md "JavaScript 学习推荐书单")
-* [前端学习推荐书单](seminar-lists/front-end-list.md "前端学习推荐书单")
++ dotNET 学习推荐书单
+* [前端向学习推荐书单](seminar-lists/front-end-list.md "前端学习推荐书单")
+  * [JavaScript 学习推荐书单](seminar-lists/javascript-list.md "JavaScript 学习推荐书单")
+* 产品经理推荐书单
+* 项目管理推荐书单
 
 ***
 
