@@ -1,8 +1,15 @@
-# LifeCareer: 建议书目 #
+# LifeCareer: 书目推荐 #
 
-## 简　介 ##
+## 前　言 ##
 
-![Title](assets/title.jpg)
+**LifeCareer: Reading Idea** 由 [LifeCareer: Books](https://github.com/LifeCareer/lifecareer-books)、[EarsEyesMouth: Computerese Cross References](https://github.com/EarsEyesMouth/computerese-cross-references) 和 [EarsEyesMouth: Books Evaluation References](https://github.com/EarsEyesMouth/books-evaluation-references) 三部分组成。本项目为其一部分。
+
+本项目在先前的尝试中，试图通过封面、简单信息、简介、目录、评价摘要，以及基于形象符号的价值评估的形式将一本书呈现在你的面前。这个常识似乎有些吃力不讨好，故在新的 LifeCareer: Reading Idea 中，本项目将不再如此详实地推荐一本书。在新的设想中，图书将按照主题书单的形式罗列，并仅保留基于形象符号的价值评估。有关图书的基本信息，书单会提供豆瓣图书页作为补充；而对该书的评价则将转移到 [EarsEyesMouth: Books Evaluation References](https://github.com/EarsEyesMouth/books-evaluation-references) 项目内。
+
+最后需要说明的是，本项目不提供图书的电子版下载地址和纸质版的购买地址。读者若是有兴趣，请自行解决。
+
+
+## 序　言 ##
 
 读书始终是人生中最畅快淋漓的活计，在一个个通过文字表述的场景中体会着主人公们的兴奋、悲伤、成功和失败，化他人经验为我用，挪天下瑰宝于脑中。读书后的你，整个人的精气神都将大不相同。故而可谓**「读书是天底下最廉价、也是最有效的投资」**，此言不虚。
 
@@ -10,13 +17,16 @@
 
 一切都在于你，我不会告诉你需要读什么，因为没有人比你更了解你内心精神世界中的缺憾；但我可以提供一条捷径，通过「推荐指数」告诉你这本书大致如何，通过「关联阅读」告诉你还可以看看哪些书，通过「评价摘录」告诉你别人如何看到这本书。而后，一切选择皆在你心。
 
+
 ## 书单清单 ##
 
-+ dotNET 学习推荐书单
-* [前端向学习推荐书单](seminar-lists/front-end-list.md "前端学习推荐书单")
-  * [JavaScript 学习推荐书单](seminar-lists/javascript-list.md "JavaScript 学习推荐书单")
-* 产品经理推荐书单
-* 项目管理推荐书单
++ .NET Stack
+  + dotNET 学习书单
+  + dotNET Core 学习书单
++ Front-End Stack
+  + [JavaScript 学习书单](seminar-lists/javascript-list.md "JavaScript 学习推荐书单")
++ 产品经理推荐书单
++ 项目管理推荐书单
 
 ***
 
